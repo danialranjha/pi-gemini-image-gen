@@ -16,7 +16,7 @@
       "./index.js"
     ]
   },
-  "peerDependencies": {
+  "dependencies": {
     "@mariozechner/pi-ai": "*",
     "@mariozechner/pi-coding-agent": "*",
     "@sinclair/typebox": "*"
